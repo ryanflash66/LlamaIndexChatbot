@@ -2,7 +2,7 @@
 
 ## Overview 🌐
 
-The `Unstructured_File_Loader.ipynb` notebook is a powerful tool that is used to load files, construct an index from them, and make that index queryable. It uses a variety of libraries, including `unstructured`, `llama_index`, `langchain`, `openai`, and others, to perform complex tasks like reading files, extracting data, creating an index, and querying the index.
+`Llama index` is a powerful tool that is used to load files, construct an index from them, and make that index queryable. It uses a variety of libraries, including `unstructured`, `llama_index`, `langchain`, `openai`, and others, to perform complex tasks like reading files, extracting data, creating an index, and querying the index.
 
 ## The Code 🚀
 
