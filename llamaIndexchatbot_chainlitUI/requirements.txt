@@ -1,0 +1,5 @@
+llama-hub
+llama-index
+unstructured[all-docs]
+langchain
+chainlit
