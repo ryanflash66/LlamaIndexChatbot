@@ -2,7 +2,7 @@
 
 ## Overview 🌐
 
-`Llama index` is a powerful tool that is used to load files, construct an index from them, and make that index queryable. It uses a variety of libraries, including `unstructured`, `llama_index`, `langchain`, `openai`, and others, to perform complex tasks like reading files, extracting data, creating an index, and querying the index.
+This is a simple chatbot that is used to load files, construct an index from them, and make that index queryable. It uses a variety of libraries, including `unstructured`, `llama_index`, `langchain`, `openai`, and others, to perform complex tasks like reading files, extracting data, creating an index, and querying the index.
 
 ## The Code 🚀
 
@@ -67,4 +67,4 @@ This function runs in an infinite loop, allowing the user to ask multiple querie
 
 ## Summary 📝
 
-In summary, `Unstructured_File_Loader.ipynb` is a powerful and complex tool that can handle unstructured files and make the data within them queryable. It uses a variety of advanced libraries and techniques to accomplish this.
+In summary, `Unstructured_File_Loader.ipynb` is a powerful and complex tool that can handle structured, and unstructured files and make the data within them queryable. It uses a variety of advanced libraries and techniques to accomplish this.
